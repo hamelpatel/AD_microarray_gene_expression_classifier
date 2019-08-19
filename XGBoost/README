@@ -1,1 +1,5 @@
-Create classifcation models and evaluate
+The Build_vs_Healthy_Control.R and Build_vs_Mixed_Control.R scripts develops, tunes and evaluates 1 classifiation model in R. 
+
+The Run_Build_vs_Healthy_Control_1000.sh and Run_Build_vs_Mixed_Control_1000.sh bash scripts runs the Build_vs_Healthy_Control.R and Build_vs_Mixed_Control.R scripts a 1000 times, each using a different seed number
+
+Need to be run on cluster using sungrid engine
